@@ -1,6 +1,6 @@
 const express = require('express');
-const Request = require('../models/Request');
-const User = require('../models/User');
+const Request = require('./Request');
+const User = require('./User');
 const router = express.Router();
 
 // Create request
