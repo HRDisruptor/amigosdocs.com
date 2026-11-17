@@ -1,1 +1,0 @@
-// amigodocs.com - Copyright (c) 2025
